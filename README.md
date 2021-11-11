@@ -1,8 +1,9 @@
 # Labs from the Data Analytics Bootcamp at IronHack
 
-Here you can find all of my Labs and Projects from the Full Time Data Analytics Bootcamp
+I'm currently studying Data Analytics at Ironhack in the Barcelona Campus
+Here you can find all of my Labs and Projects from the Bootcamp, organized in weeks with a brief detail of the languages/packages/knowledge used
 
-## **Week 1** 
+## [**Week 1**](https://github.com/yamilart/DataLabs/tree/main/Week%201)
 
 Info: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit, Scipy, Data Cleaning, EDA, Machine Learning: Linear Regression
 
@@ -11,7 +12,7 @@ Info: Python, Pandas, Numpy, Matplotlib, Seaborn, Scikit, Scipy, Data Cleaning, 
 - [Customer Analysis Round 2](https://github.com/yamilart/DataLabs/blob/main/Lab-CustomerAnalysisRound2.ipynb)
 - [Customer Analysis Round 3](https://github.com/yamilart/DataLabs/blob/main/Lab-CustomerAnalysisRound3.ipynb)
 
-## **Week 2**
+## [**Week 2**](https://github.com/yamilart/DataLabs/tree/main/Week%202)
 
 Info: Data Visualization, Tableau, Data Cleaning
 
@@ -19,7 +20,7 @@ Info: Data Visualization, Tableau, Data Cleaning
 - [Customer Analysis Final Round](https://github.com/yamilart/DataLabs/blob/main/Lab-CustomerAnalysisFinalRound.ipynb)
 - [First Group Project - Working with Messy Data](https://github.com/yamilart/DataLabs/blob/main/First%20Group%20Project.pdf)
 
-## **Week 3**
+## [**Week 3**](https://github.com/yamilart/DataLabs/tree/main/Week%203)
 
 Info: SQL, queries, joins, window functions, range, ERD
 
@@ -29,7 +30,7 @@ Info: SQL, queries, joins, window functions, range, ERD
 - [SQL Join](https://github.com/yamilart/DataLabs/blob/main/Lab-SQL-join.sql)
 - [Second Group Project - ERD](https://github.com/yamilart/DataLabs/blob/main/ERD%20Second%20Group%20Project.pdf)
 
-## **Week 4**
+## [**Week 4**](https://github.com/yamilart/DataLabs/tree/main/Week%204)
 
 Info: Subqueries, Py-SQL, Machine Learning: Logistic Regression 📝 **IN PROGRESS**
 
