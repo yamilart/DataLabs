@@ -15,3 +15,9 @@ Last lab using only SQL, we had to apply subqueries to filter and organize the d
 ***Combined SQL and Python to make predictions with logistic regression, using the Sakila database***
 
 *In progress*
+
+***Bonus Lab: Iris class prediction***
+
+A Lab made the TA mixing machine learning and the developing of a nice readme to explain the proccess
+
+- [Iris Bonus Lab](https://github.com/yamilart/DataLabs/tree/main/Week%204/Bonus-Walkthrough)
