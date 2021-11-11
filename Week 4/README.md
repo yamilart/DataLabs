@@ -16,8 +16,18 @@ Last lab using only SQL, we had to apply subqueries to filter and organize the d
 
 *In progress*
 
+### Day 3
+
 ***Bonus Lab: Iris class prediction***
 
-A Lab made the TA mixing machine learning and the developing of a nice readme to explain the proccess
+A Lab made with the TA mixing machine learning and the developing of a nice readme to explain the proccess
 
 - [Iris Bonus Lab](https://github.com/yamilart/DataLabs/tree/main/Week%204/Bonus-Walkthrough)
+
+### Day 4
+
+***Bonus Lab: Imbalanced Data***
+
+ Building a churn predictor using Logistic Regression, a Synthetic Minority Oversampling TEchnique (SMOTE) and Tomek Links
+
+- [Imbalanced Data](https://github.com/yamilart/DataLabs/blob/main/Week%204/Lab-Imbalanced-Data.ipynb)
