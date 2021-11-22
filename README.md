@@ -32,18 +32,25 @@ Info: SQL, queries, joins, window functions, range, ERD
 
 ## [**Week 4**](https://github.com/yamilart/DataLabs/tree/main/Week%204)
 
-Info: Subqueries, Py-SQL, Machine Learning: Logistic Regression 📝 **IN PROGRESS**
+Info: Subqueries, Py-SQL, Machine Learning: Logistic Regression 
 
 - [SQL Subqueries](https://github.com/yamilart/DataLabs/blob/main/Week%204/Lab-SQL-Subqueries.sql)
 - [Making Predictions with Logistic Regression](https://github.com/yamilart/DataLabs/blob/main/Week%204/Lab-Making-predictions-with-logistic-regression.ipynb)
+- [Imbalanced Data](https://github.com/yamilart/DataLabs/blob/main/Week%204/Lab-Imbalanced-Data.ipynb)
+- [BONUS: Iris class prediction - with README](https://github.com/yamilart/DataLabs/tree/main/Week%204/Bonus-Walkthrough)
 
-## **Week 5**
+## [**Week 5**](https://github.com/yamilart/mid_bootcamp_project)
 
-*TBA*
+Info: Mid-Bootcamp Project in pairs
 
-## **Week 6**
+- [Mid-bootcamp Project: Regression](https://github.com/yamilart/mid_bootcamp_project)
 
-*TBA*
+## [**Week 6**](https://github.com/yamilart/DataLabs/tree/main/Week%206)
+
+Info: Excel Macros 📝 **IN PROGRESS**
+
+- [Intro: Excel Macros](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-Macros-Intro.xlsm)
+- [Macros: Automated Report Generation](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-Automated-Report-Generation.xlsm)
 
 ## **Week 7**
 
