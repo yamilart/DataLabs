@@ -47,10 +47,12 @@ Info: Mid-Bootcamp Project in pairs
 
 ## [**Week 6**](https://github.com/yamilart/DataLabs/tree/main/Week%206)
 
-Info: Excel Macros 📝 **IN PROGRESS**
+Info: Excel Macros, Inferential Statistics 📝 **IN PROGRESS**
 
 - [Intro: Excel Macros](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-Macros-Intro.xlsm)
 - [Macros: Automated Report Generation](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-Automated-Report-Generation.xlsm)
+- [Inferential Statistics: T-Test & P-Value](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-T-test-P-value.ipynb)
+- [Inferential Statistics: ANOVA](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-ANOVA.ipynb)
 
 ## **Week 7**
 
