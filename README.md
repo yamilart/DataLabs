@@ -53,6 +53,9 @@ Info: Excel Macros, Inferential Statistics 📝 **IN PROGRESS**
 - [Macros: Automated Report Generation](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-Automated-Report-Generation.xlsm)
 - [Inferential Statistics: T-Test & P-Value](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-T-test-P-value.ipynb)
 - [Inferential Statistics: ANOVA](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-ANOVA.ipynb)
+- [Geopandas Tutorial](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-Geopandas-Tutorial.ipynb)
+- [Databricks](https://github.com/yamilart/DataLabs/blob/main/Week%206/Databricks.md)
+- [BONUS: Tuples, Sets & Dictionaries](https://github.com/yamilart/DataLabs/tree/main/Week%206/Lab%20Tuples-Sets-Dict)
 
 ## **Week 7**
 
