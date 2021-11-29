@@ -47,7 +47,7 @@ Info: Mid-Bootcamp Project in pairs
 
 ## [**Week 6**](https://github.com/yamilart/DataLabs/tree/main/Week%206)
 
-Info: Excel Macros, Inferential Statistics 📝 **IN PROGRESS**
+Info: Excel Macros, Inferential Statistics
 
 - [Intro: Excel Macros](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-Macros-Intro.xlsm)
 - [Macros: Automated Report Generation](https://github.com/yamilart/DataLabs/blob/main/Week%206/Lab-Automated-Report-Generation.xlsm)
@@ -59,7 +59,9 @@ Info: Excel Macros, Inferential Statistics 📝 **IN PROGRESS**
 
 ## **Week 7**
 
-*TBA*
+Info: Web Scraping with Beautiful Soup 📝 **IN PROGRESS**
+
+- [Web Scraping: Single Page](https://github.com/yamilart/DataLabs/blob/main/Week%207/Lab-Web-Scraping-Single-Page.ipynb)
 
 ## **Week 8**
 
