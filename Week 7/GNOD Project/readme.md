@@ -7,7 +7,7 @@ The full information about the project can be found [here](https://github.com/ir
 
 **MVP**: Creating a recomendation engine that can check if the song you submit is in the Billboard Hop 100 songs and, if it is, return another song from the same list.  
   
-[My MVP](https://github.com/yamilart/DataLabs/blob/main/Week%201/Jupyterlab.ipynb)  
+[My MVP](https://github.com/yamilart/DataLabs/blob/main/Week%207/GNOD%20Project/MVP-Project.ipynb)  
   
 <img width="513" alt="Screenshot 2021-12-03 at 16 24 27" src="https://user-images.githubusercontent.com/81629326/144627721-b585b51b-a5c9-48a0-a149-2943b42d398d.png">
 
