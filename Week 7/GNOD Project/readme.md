@@ -1,6 +1,6 @@
 # GNOD Project
 
-As the final project before thr final project we had to create a song recommender based on some features and playlists.  
+As the final project before the final project we had to create a song recommender based on some features and playlists.  
 The full information about the project can be found [here](https://github.com/ironhack-labs/lab-web-scraping-single-page/blob/master/case-study-gnod.md)
 
 ## Song Suggester
