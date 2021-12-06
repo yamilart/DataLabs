@@ -57,7 +57,7 @@ Info: Excel Macros, Inferential Statistics
 - [Databricks](https://github.com/yamilart/DataLabs/blob/main/Week%206/Databricks.md)
 - [BONUS: Tuples, Sets & Dictionaries](https://github.com/yamilart/DataLabs/tree/main/Week%206/Lab%20Tuples-Sets-Dict)
 
-## **Week 7**
+## [**Week 7**](https://github.com/yamilart/DataLabs/tree/main/Week%207)
 
 Info: Web Scraping with Beautiful Soup, APIs, Unsipervised Machine Learning
 
@@ -65,9 +65,11 @@ Info: Web Scraping with Beautiful Soup, APIs, Unsipervised Machine Learning
 - [Web Scraping: Multiple Pages](https://github.com/yamilart/DataLabs/blob/main/Week%207/Lab-Web-Scraping-Multiple-Pages.ipynb)
 - [GNOD: Song Suggester](https://github.com/yamilart/DataLabs/tree/main/Week%207/GNOD%20Project)
 
-## **Week 8**
+## [**Week 8**](https://github.com/yamilart/DataLabs/tree/main/Week%208)
 
 Info: NLP - Neural Networks 📝 **IN PROGRESS**
+
+- [NLP](https://github.com/yamilart/DataLabs/blob/main/Week%208/Lab-NLP.ipynb)
 
 ## **Week 9**
 
