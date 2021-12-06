@@ -59,13 +59,15 @@ Info: Excel Macros, Inferential Statistics
 
 ## **Week 7**
 
-Info: Web Scraping with Beautiful Soup 📝 **IN PROGRESS**
+Info: Web Scraping with Beautiful Soup, APIs, Unsipervised Machine Learning
 
 - [Web Scraping: Single Page](https://github.com/yamilart/DataLabs/blob/main/Week%207/Lab-Web-Scraping-Single-Page.ipynb)
+- [Web Scraping: Multiple Pages](https://github.com/yamilart/DataLabs/blob/main/Week%207/Lab-Web-Scraping-Multiple-Pages.ipynb)
+- [GNOD: Song Suggester](https://github.com/yamilart/DataLabs/tree/main/Week%207/GNOD%20Project)
 
 ## **Week 8**
 
-*TBA*
+Info: NLP - Neural Networks 📝 **IN PROGRESS**
 
 ## **Week 9**
 
