@@ -49,6 +49,8 @@ In case it's not working, here are some screenshots of the outcomes:
 <img width="500" alt="Screenshot 2021-12-16 at 19 35 49" src="https://user-images.githubusercontent.com/81629326/146433411-4a564419-274b-460f-aae6-4786742ac05e.png">  
 <img width="500" alt="Screenshot 2021-12-16 at 19 35 18" src="https://user-images.githubusercontent.com/81629326/146433409-556c2d5a-f9fd-4b94-a77e-c797ac8f2ee4.png">  
 
+Since the model is not 100% accurate the app is not either, and it can only take .jpg images. Ideally I would like to improve it to accept more types of images.
+
 ## The next steps 🐾
 
 Next I would like to be able to expand the model and be able to predict more and more breeds.  
