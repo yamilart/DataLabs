@@ -1,6 +1,7 @@
 # Who let the dogs out? 🐾
 
-Final Project: A dog Breed Recognition Project
+Final Project: A dog Breed Recognition Project  
+![dogpc](https://user-images.githubusercontent.com/81629326/146441153-ae2f22a0-772d-4cc6-a460-24a47c407480.jpeg)
 
 ### A Data Analysis Project...
 
