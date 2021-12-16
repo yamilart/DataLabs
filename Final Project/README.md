@@ -20,7 +20,7 @@ I decided to work with a dataset from Kaggle that I customize to my needs becaus
 - [The App Process](https://github.com/yamilart/streamlit-dogbreed)
 - [The Failed Attempts](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/how-about-no)
 - [The extra cute pictures for testing purposes](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/extra-cute-pictures)
-- [The Final Presentation](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/extra-cute-pictures)
+- [The Final Presentation](https://github.com/yamilart/DataLabs/blob/main/Final%20Project/Final%20Project.pdf)
 
 
 ## The process
