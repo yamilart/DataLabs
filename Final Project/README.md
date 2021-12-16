@@ -11,15 +11,15 @@ As my final project I decided to dig into Computer Vision and create a Dog Breed
 
 ## About
  
-**The basics**
+## The basics
 
 I decided to work with a dataset from Kaggle that I customize to my needs because it didn't have any Dachshunds...  
 
-- [The data](https://drive.google.com/drive/folders/1BZqDlhpX9AAszha3SD8K6k6g_JAr8RuP?usp=sharing)
+- [The Data](https://drive.google.com/drive/folders/1BZqDlhpX9AAszha3SD8K6k6g_JAr8RuP?usp=sharing)
 - [The Final Notebook](https://github.com/yamilart/DataLabs/blob/main/Final%20Project/Final_Project.ipynb)
-- [The App Process](https://github.com/yamilart/streamlit-dogbreed)
+- [The App](https://github.com/yamilart/streamlit-dogbreed)
 - [The Failed Attempts](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/how-about-no)
-- [The extra cute pictures for testing purposes](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/extra-cute-pictures)
+- [The Extra Cute Pictures (for testing purposes)](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/extra-cute-pictures)
 - [The Final Presentation](https://github.com/yamilart/DataLabs/blob/main/Final%20Project/Final%20Project.pdf)
 
 
@@ -49,3 +49,9 @@ In case it's not working, here are some screenshots of the outcomes:
 <img width="500" alt="Screenshot 2021-12-16 at 19 35 49" src="https://user-images.githubusercontent.com/81629326/146433411-4a564419-274b-460f-aae6-4786742ac05e.png">  
 <img width="500" alt="Screenshot 2021-12-16 at 19 35 18" src="https://user-images.githubusercontent.com/81629326/146433409-556c2d5a-f9fd-4b94-a77e-c797ac8f2ee4.png">  
 
+## The next steps 🐾
+
+Next I would like to be able to expand the model and be able to predict more and more breeds.  
+My ultimate goal would be to have a model than can predict the underlying breeds on stray dogs, with the hope of being able to detect future possible illneses and help them get adopted.
+
+🐾 🐾
