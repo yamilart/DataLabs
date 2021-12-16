@@ -1,4 +1,4 @@
-## Who let the dogs out? 🐾
+# Who let the dogs out? 🐾
 
 Final Project: A dog Breed Recognition Project
 
@@ -7,8 +7,9 @@ Final Project: A dog Breed Recognition Project
 **With images!**
 
 As my final project I decided to dig into Computer Vision and create a Dog Breed Recognition program because... why not?
- 
- ### About
+
+
+## About
  
 **The basics**
 
@@ -19,9 +20,10 @@ I decided to work with a dataset from Kaggle that I customize to my needs becaus
 - [The App Process](https://github.com/yamilart/streamlit-dogbreed)
 - [The Failed Attempts](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/how-about-no)
 - [The extra cute pictures for testing purposes](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/extra-cute-pictures)
+- [The Final Presentation](https://github.com/yamilart/DataLabs/tree/main/Final%20Project/extra-cute-pictures)
 
 
-### The process
+## The process
 
 My data consisted in over 10000 dog pictures classified in 120 breeds.  
 Since that was going to take a lot of time and computer power to build i decided to use only 20 breeds, wich resulted in around 1600 pictures.    
@@ -35,7 +37,7 @@ The said results were:
 <img width="212" alt="Screenshot 2021-12-16 at 20 04 34" src="https://user-images.githubusercontent.com/81629326/146432843-3b0cb7ec-c1fa-4b08-8ab3-166fc70d8bf5.png">
 
 
-### The App!
+## The App!
 
 *Hey mom! I created an app!*.   
 After some struggle and few hours of sleep I managed to deploy my model and to use it with any updated picture.   
