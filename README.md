@@ -1,6 +1,6 @@
 # Labs from the Data Analytics Bootcamp at IronHack
 
-I'm currently studying Data Analytics at Ironhack in the Barcelona Campus
+I did an intensive Data Analytics Bootcamp at Ironhack in the Barcelona Campus
 Here you can find all of my Labs and Projects from the Bootcamp, organized in weeks with a brief detail of the languages/packages/knowledge used
 
 ## [**Week 1**](https://github.com/yamilart/DataLabs/tree/main/Week%201)
