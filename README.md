@@ -67,10 +67,13 @@ Info: Web Scraping with Beautiful Soup, APIs, Unsipervised Machine Learning
 
 ## [**Week 8**](https://github.com/yamilart/DataLabs/tree/main/Week%208)
 
-Info: NLP - Neural Networks 📝 **IN PROGRESS**
+Info: NLP - Neural Networks, Computer Vision, 
 
 - [NLP](https://github.com/yamilart/DataLabs/blob/main/Week%208/Lab-NLP.ipynb)
+- [Computer Vision](https://github.com/yamilart/DataLabs/blob/main/Week%208/Lab-computervision.ipynb)
 
 ## **Week 9**
 
-*TBA*
+Info: Final Project: A Dog Breed Recognition Program using Computer Vision
+
+- [Who let the dogs out?](https://github.com/yamilart/DataLabs/tree/main/Final%20Project)
