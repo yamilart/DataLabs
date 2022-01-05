@@ -72,8 +72,8 @@ Info: NLP - Neural Networks, Computer Vision,
 - [NLP](https://github.com/yamilart/DataLabs/blob/main/Week%208/Lab-NLP.ipynb)
 - [Computer Vision](https://github.com/yamilart/DataLabs/blob/main/Week%208/Lab-computervision.ipynb)
 
-## **Week 9**
+## [**Week 9**](https://github.com/yamilart/DataLabs/tree/main/Final%20Project)
 
 Info: Final Project: A Dog Breed Recognition Program using Computer Vision
 
-- [Who let the dogs out?](https://github.com/yamilart/DataLabs/tree/main/Final%20Project)
+- [Who let the dogs out?](https://github.com/yamilart/DataLabs/blob/main/Final%20Project/Final_Project.ipynb)
